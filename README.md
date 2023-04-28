@@ -1,3 +1,8 @@
+
+<p align="center">
+    <img src="images/readme.gif" width="350px">
+</p>
+
 # chess-ai
 
 Chess game environment for training and testing various AI models.

@@ -1,8 +1,5 @@
 """
 Code from: x4nth055/pythoncode-tutorials Github
-
-TODO:
-- implement en-passant
 """
 import pygame
 
